@@ -1,0 +1,44 @@
+**SOBRE A BASE DE DADOS**
+
+ DICIONÁRIO DE DADOS :
+
+1-realSum: Preço total em euros para duas pessoas e duas noites
+
+2-room_type: Tipo de quarto oferecido (alojamento)
+
+3-room_shared: Se o quarto é compartilhado ou não
+
+4-room_private: Se o quarto é privativo ou não
+
+5-person_capacity: Número máximo de pessoas permitidas na propriedade
+
+6-host_is_superhost: Se o host é ou não um superhost
+
+7-multi: Tem vários quartos ou não
+
+8-biz: Seja para uso comercial ou familiar
+
+9-cleanliness_rating: Classificação de limpeza
+
+10-guest_satisfaction_overall: Satisfação geral do hóspede
+
+11-bedrooms: Número de quartos
+
+12-dist: Distância do centro da cidade em km
+
+13-lat: latitude
+
+14-lng: longitude
+
+15-attr_index: índice de atração do local do anúncio
+
+16-attr_index_norm: índice de atração normalizado (0-100)
+
+17-rest_index: restaurant index of the listing location
+
+18-rest_index_norm: normalised restaurant index (0-100)
+
+19-metro_dist: distância da estação de metrô mais próxima em km
+
+
+FONTE : https://zenodo.org/record/4446043#.Y9Y9ENJBwUE
